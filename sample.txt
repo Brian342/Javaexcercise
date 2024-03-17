@@ -1,0 +1,24 @@
+Write a program that accepts three numbers and computes their sum, product and average. 
+Write a program that accepts the radius of a circle and computes both it’s area and circumference.
+Write a program that accepts the width and length of a rectangle and computes both it’s area and perimeter.
+Write a program that computes the area of a right-angled triangle.
+Write a program that accepts measurements in cm and converts them into metres. If someone enters 200 for example, the output should take the form;
+
+200 cm = 2 metres.
+
+Write a program that accepts temperature in degrees Celsius and converts and outputs it in degrees Fahrenheit.
+Write a program that accepts distance traveled in metres and the time taken in minutes and then outputs the speed in kilometers per hour (km/h). E.g. if someone enters a distance (in metres) of 500 and a time (in minutes) of 15 the output for speed should be 2 km/h.
+Write a program that accepts measurements in kilometers and the converts and displays them in metres. E.g. if someone enters 0.4 (kilometers) the output should take the form 0.4 kilometers = 400 metres.
+Write a program that accepts the weight of a package in grams and then converts it to kilograms and also specifies how many such packages form one kilogram. For example, if the user enters the weight (in grams) of the package as 100, the output should be;
+
+The weight of the package is 0.1 kilograms.
+It takes 10 such packages to form one kilogram.
+
+Write a program that accepts the age of a person, if the person is 18 and above, it should print You can vote. otherwise it should print You are too young to vote.
+Write a program that accepts a number and then outputs it’s square, cube, square root and cube root.
+
+Write a program that prints God bless Kenya. 25 times on the screen using: -
+do…while loop.
+while… loop
+for… loop.
+NB: The Phrase God Bless Kenya should appear only once in your source code.
